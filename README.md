@@ -15,7 +15,7 @@ Their app is quite good, except for the fact it does not handle printing from An
 The printer itself seems like a good quality device, with lots of nice touches (such as paper out support, multiple paper types and detecting the end of the page (single sheets, fan-fold shipping labels with gaps, single sheets with black marks, continuous paper roll (that can be kept inside the device), etc. It's also powered by a battery which was a must for my project.
 
 ## Apps 
-There are multiple apps offered by the manufacturer, but the only one that works with the F82A appears to be the Chrome extension (which DOES work on Windows, not just ChromeOS and Mac), and the main Android app with the manufacturer name as the app name. The other two (printer system, and Print Service) do not talk to the F82A.
+There are multiple apps offered by the manufacturer, but the only one that works with the F82A appears to be the Chrome extension (which DOES work on Windows, not just ChromeOS and Mac), the main Android app with the manufacturer name as the app name, and the windows driver and Label application. I have not tested any linux or mac app. The other two android apps (printer system, and Print Service) do not talk to the F82A.
 
 ## Aim
 My aim is to print directly from any application on Android without having to export to an intermediate format and importing via the manufacturer app. The manufacturer app can be used for pairing or other required options.
