@@ -1,6 +1,9 @@
 # Rongta-Printer-Protocol
 My adventure with reversing the protocol for a Rongta F82A printer
 
+> [!WARNING]
+> This project is intended for informational and educational purposes only. The project is not affiliated with or endorsed by the original software or hardware vendor, and is not intended to be used for commercial purposes without the consent of the vendor.
+
 ## Why
 I purchased an F82A A4 thermal printer from an offer on a widely known shopping site. On attempting to print to it from Android, I realised you had to use their proprietary app - there was no support for printing via Androids printer services as their older printers offered. 
 
